@@ -1,0 +1,134 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color:rgb(50, 54, 57);
+
+}
+
+.container{
+  width: 1200px;
+  margin: auto;
+}
+header{
+  margin-top: 1rem;
+  
+
+  display: flex;
+}
+
+.logo{
+  width: 8.5rem;
+  height:3.5rem;
+  margin-left: 5rem ;
+  margin-top: 1rem;
+
+}
+
+.navegacao{
+  margin-top: 2rem;
+  display: flex;
+  margin-left: 9rem;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family:'Times New Roman', Times, serif;
+  width:100%
+}
+
+.navegacao li{
+  padding-left: 1rem;
+  
+}
+
+.navegacao li a{
+  color:#FFFFFF;
+  text-decoration: none;
+}
+
+.intro{
+  background-color:rgb(50, 54, 57) ;
+ 
+}
+
+.intro h2{
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #FFFFFF
+}
+
+.intro p{
+  margin-top: 2rem;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 1.2rem;
+}
+
+.botoes{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;  
+  ;
+}
+
+.botao {
+  color: #FFFFFF;
+  font-size: 1rem;
+  font-weight: 100;
+  padding: 1rem;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-right: 0.7rem;
+}
+
+.botao:hover {
+  
+  text-decoration: none;
+}
+
+#contratar{
+  background-color: #C62828;
+}
+
+#contratar:hover{
+  background: #141618;
+}
+
+#contratado{
+  background-color: #141618;
+}
+
+#contratado:hover{
+  background:#C62828 ;
+}
+
+.institucional{
+  background-color: #FFFFFF;
+  margin-top: 2rem;
+  display: flex;
+  padding: 2rem;
+ 
+
+}
+
+.institucional img{
+  width: 21.5rem;
+  height: 17rem;
+  margin-left: 8.3rem;
+}
+
+.institucional h3{
+  margin-left: 1.5rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5rem;
+}
+
+#propostas{
+  margin-top: 2rem;
+  margin-left: 10rem;
+  color: #FFFFFF;
+  background-color: #C62828;
+}
