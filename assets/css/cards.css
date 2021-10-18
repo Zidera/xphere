@@ -1,0 +1,44 @@
+.opinion-cards{
+  display: flex;
+  background: #fff;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  left: 0;
+  right: 0;
+  display: flex;
+}
+
+.cards{
+
+  background: #fff;
+  box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+  border-radius: 5px;
+  max-width: 480px;
+  height: 15rem;
+  margin-left: 1rem;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  left: 0;
+  right: 0;
+  border-top: 5px solid #C62828;
+  margin-right: 2rem;
+  margin-top: 3rem;
+  
+  
+}
+
+.cards img{
+  height: 7rem;
+  width: 5rem;
+  display: block;
+  margin:auto;
+}
+
+.cards p{
+  text-align: center;
+  padding-top: 1rem;
+}
