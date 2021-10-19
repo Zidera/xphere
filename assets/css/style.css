@@ -134,6 +134,24 @@ header{
 }
 
 
+.parceiros h4{
+  font-size: 4rem;
+  font-weight: 700;
+  text-align: center;
+  display: block;
+  color: #FFFFFF;
+}
+
+.parceiros-icones{
+  display: flex;
+  justify-content: center;
+}
+
+.parceiros-icones img{
+  height: 4rem;
+  padding: 2rem;
+}
+
 
 .fale-conosco{
  
